@@ -83,4 +83,4 @@ python script_name.py
 
 ## 👤 Author
 
-Created with ❤️ as part of my Computer Graphics learning journey.
+Created with ❤️OakJustify as part of my Computer Graphics learning journey.
